@@ -29,13 +29,10 @@ excel-data-automation-pipeline/
 │   ├── 07_detect_missing_observations.py
 │   └── 08_compute_average_scores.py
 │
-├── sample_data/
+└── sample_data/
+|   ├── temp.xlsx
 |   ├── old_format_sample.xlsx
-│   └── new_template_sample.xlsx
-│
-└── outputs/
-│   ├── missing_observations.txt
-│   └── average_scores.txt
+│   └── new_format_sample.xlsx
 
 ## Workflow
 1. Generate standardized Excel files from template

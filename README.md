@@ -30,7 +30,6 @@ excel-data-automation-pipeline/
 │   └── 08_compute_average_scores.py
 │
 ├── sample_data/
-│   ├── older_format_sample.xlsx
 |   ├── old_format_sample.xlsx
 │   └── new_template_sample.xlsx
 │

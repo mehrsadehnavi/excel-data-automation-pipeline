@@ -3,6 +3,7 @@
 ## Overview
 This project presents a Python-based data processing pipeline designed to automate the migration, transformation, and analysis of Excel-based instructor records.
 The system handles large-scale datasets (500+ files) with heterogeneous structures and replaces manual workflows with automated, reproducible processes.
+Please note that the actual dataset has been removed from the project to ensure staff's privacy.
 
 ## Key Features
 - Automated generation of Excel files from a template
